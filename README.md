@@ -1,4 +1,8 @@
-## Hi there 👋 ~ Work In Progress
+## 🐺 Levar Norwood ~ Work In Progress 👨🏾‍💻
+
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZmbTlpeXBoNTFudjJ3Nmd2YThqcmk4NjZ2eml3M3F4ZGkzbnEyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" width="200"/>
+</div>
 
 <!--
 **Lev2025/Lev2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
