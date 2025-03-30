@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 👨🏾‍💻 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -37,12 +37,6 @@
 
 <a href="https://github.com/lev2pr0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-#
-<details>
- <summary><h3>👨🏾‍💻 Lev's Coding Journey</h3></summary>
- <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZmbTlpeXBoNTFudjJ3Nmd2YThqcmk4NjZ2eml3M3F4ZGkzbnEyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" width="200"/>
-</div>
 
 
 
