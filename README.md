@@ -2,8 +2,8 @@
 
 **`Professional Services Consultant`**
 
-- 🔭 I’m currently working on Codecademy Computer Science - Professional Certificate
-- 🌱 I’m currently learning Computer Science (next: Backend Development via boot.dev)
+- 🔭 I’m currently working on [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) Professional Certificate
+- 🌱 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory and after the practice of Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
 - 📫 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
 
 ---
