@@ -11,10 +11,19 @@
 ### 👨🏾‍💻 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<img align="left" alt="Json" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+<br />
+
+#
+
+### 🗺️ Roadmap Languages and Tools
+
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -22,9 +31,6 @@
 <img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Json" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <br />
 
 #
@@ -36,14 +42,17 @@
 <a href="https://github.com/lev2pr0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <details>
- <summary><h3>👨🏽‍💻 Lev's Coding Journey</h3></summary>
-   I started my coding journey as a community college IT Engineer student between 2014-2015. During this period, I took classes on Intro to Computers, Databases, and Programming & Logic. My Programming & Logic class caused me grief due to the requirement of focus and study. I barely passed with a C. From 2015-2020, I tried other courses for network engineering and IT administration with the same result, barely passing while trying to work full time in a Support Engineer role. In 2020, I tried one last time taking Web, Database, & Programming and Network Administration foundation courses, then finally gave up school; 77 cumulative credits later. 
+ <summary><h3>👨🏽‍💻 Lev's Software Development Journey</h3></summary>
+   I started my software development journey as a community college IT Engineer student in 2014. Between 2014-15, I took classes on Intro to Computers, Databases, and Programming & Logic. My Programming & Logic class caused me grief due to the requirement of focus and study barely passing with a C. From 2015-19, I tried other courses for network engineering and IT administration with the same result, barely pasing while trying to work full time in a Support Engineer role. In 2020, I tried one last time taking 'Web, Database, & Programming' and 'Network Administration foundation' courses, then finally gave up on school with 77 cumulative credits earned. 
 <br><br/>
-Fast forward to March 2025, I've been in the IT industry for 10+ years with 5+ years of IT project experience. My role required deeper learning to implement new products from a business acquisition for B2B customers and I struggled enough with focus & initiative to finally seek help. I received a diagnosis of ADHD (primarily inattentive) to my surprise and received medicine for treatment, which unlocked a whole new world of focus and clarity where I can finally study material at work for projects and outside of work coding again.  
+Fast forward to March 2025, I've been in the IT industry for roughly 10 years with 5 years of IT project experience. My role required further learning to implement multiple new products for existing & new B2B customers. Though I succeeded, I struggled internally enough with focus & initiative learning to finally seek professional help. I received a diagnosis of ADHD (primarily inattentive) to my surprise and received medicine for treatment, which unlocked a whole new world of focus & initiative where I can finally be more productive at work in project implementations and afterhours learning programming.   
 <br><br/>
-Now, it’s time to get uncomfortable again. I can finally fulfill that dream I had of learning software development to help people win with technology. And in order to do that, I put myself on a non-linear self-learning roadmap to achieve a role in backend development and continue this journey of growing skills to work on new and challenging projects.
+Now, I am jumping into unfamiliar territory fulfilling that dream I had of learning software development to help people win with technology. I put myself on a self-learning roadmap to grow programming skills necessary to achieve a role in backend development within 5 years. In short-term, I will continue my current career growing professional consultancy soft skills in strong communication, leadership, problem-solving, organization, and time management to work on new and challenging projects in the exciting future to come.
 <br><br/>
-Thank you for reading my journey! 🙏🏽 Feel free to watch me grow here and always very open to collaboration & mentorship.
+<br><br/>
+Thank you for reading my story! 🙏🏽 
+<br><br/>
+You can watch me grow here as I continue to update on my progress and upload projects. Feel free to reach out as I am open to collaboration and for mentorship.
 <br><br/>
 
 
