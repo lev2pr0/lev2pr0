@@ -41,7 +41,8 @@
  
 [![Levar's GitHub stats](https://github-readme-stats-levar-norwoods-projects.vercel.app/api?username=lev2pr0&show_icons=true&bg_color=00000000)](github.com/lev2pr0/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats-levar-norwoods-projects.vercel.app/api/top-langs/?username=lev2pr0)](github.com/lev2pr0/github-readme-stats)
+[![Top Langs](https://github-readme-stats-levar-norwoods-projects.vercel.app/api/top-langs/?username=lev2pr0&theme=dark#gh-dark-mode-only)](github.com/lev2pr0/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-levar-norwoods-projects.vercel.app/api/top-langs/?username=lev2pr0&theme=default#gh-light-mode-only)](github.com/lev2pr0/github-readme-stats#gh-light-mode-only)
 
 </a>
 </details>
