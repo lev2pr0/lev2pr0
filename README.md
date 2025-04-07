@@ -51,7 +51,6 @@ Fast forward to March 2025, I've been in the IT industry for roughly 10 years wi
 <br><br/>
 Now, I am jumping into unfamiliar territory fulfilling that dream I had of learning software development to help people win with technology. I put myself on a self-learning roadmap to grow programming skills necessary to achieve a role in backend development within 5 years. In short-term, I will continue my current career growing professional consultancy soft skills in strong communication, leadership, problem-solving, organization, and time management to work on new and challenging projects in the exciting future to come.
 <br><br/>
-<br><br/>
 Thank you for reading my story! 🙏🏽 
 <br><br/>
 You can watch me grow here as I continue to update on my progress and upload projects. Feel free to reach out as I am open to collaboration and for mentorship.
