@@ -35,12 +35,14 @@
 
 #
 
-<b>My GitHub Stats</b>
-
+<b></b>
+<details>
+ <summary><h3>🔌 My GitHub Stats</h3></summary>
 <a href="http://www.github.com/lev2pr0"><img src="https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lev2pr0's GitHub stats" /></a>
 
 <a href="https://github.com/lev2pr0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+</details>
+<b></b>
 <details>
  <summary><h3>👨🏽‍💻 Lev's Software Development Journey</h3></summary>
    I started my software development journey as a community college IT Engineer student in 2014. Between 2014-15, I took classes on Intro to Computers, Databases, and Programming & Logic. My Programming & Logic class caused me grief due to the requirement of focus and study barely passing with a C. From 2015-19, I tried other courses for network engineering and IT administration with the same result, barely pasing while trying to work full time in a Support Engineer role. In 2020, I tried one last time taking 'Web, Database, & Programming' and 'Network Administration foundation' courses, then finally gave up on school with 77 cumulative credits earned. 
@@ -54,5 +56,6 @@ Thank you for reading my story! 🙏🏽
 <br><br/>
 You can watch me grow here as I continue to update on my progress and upload projects. Feel free to reach out as I am open to collaboration and for mentorship.
 <br><br/>
+</details>
 
 
