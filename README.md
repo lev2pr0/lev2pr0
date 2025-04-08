@@ -33,8 +33,6 @@
 
 #
 
-https://github.com/lev2pr0/github-readme-stats
-
 <b></b>
 <details>
  <summary><h3>🔌 My GitHub Stats</h3></summary>
