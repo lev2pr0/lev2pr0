@@ -36,7 +36,10 @@
 <b></b>
 🔌 My GitHub Stats
 
-<a href="https://github.com/lev2pr0/github-readme-stats"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api?username=lev2pr0&show_icons=true&include_all_commits=true&hide_border=true" alt="Levar's Github Stats" /></a> <a href="https://github.com/lev2pr0/github-readme-stats"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api/top-langs/?username=lev2pr0&layout=compact&hide_border=true" /></a> 
+<a href="https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api?username=lev2pr0&show_icons=true&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" alt="Levar's Github Stats" /></a> <a href="https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api/top-langs/?username=lev2pr0&layout=compact&hide_border=true&theme=default#gh-light-mode-only" /></a> 
+
+<a href="https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api?username=lev2pr0&show_icons=true&include_all_commits=true&hide_border=true&theme=dark#gh-dark-mode-only" alt="Levar's Github Stats" /></a> <a href="https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api/top-langs/?username=lev2pr0&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only" /></a> 
+
 
 </a>
 </details>
