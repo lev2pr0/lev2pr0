@@ -31,20 +31,11 @@
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <br />
 
-#
-
-<b></b>
-🔌 My GitHub Stats
-
-<a href="https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api?username=lev2pr0&show_icons=true&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" alt="Levar's Github Stats" /></a> <a href="https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api/top-langs/?username=lev2pr0&layout=compact&hide_border=true&theme=default#gh-light-mode-only" /></a> 
-
-
-<a href="https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api?username=lev2pr0&show_icons=true&include_all_commits=true&hide_border=true&theme=dark#gh-dark-mode-only" alt="Levar's Github Stats" /></a> <a href="https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-levar-norwoods-projects.vercel.app/api/top-langs/?username=lev2pr0&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only" /></a>
-
+---
 
 <b></b>
 <details>
- <summary><h3>👨🏽‍💻 Levar's Software Development Journey</h3></summary>
+ <summary><h3>📖 Levar's Software Development Journey</h3></summary>
    I started my software development journey as a community college IT Engineering student in 2014. Between 2014-15, I took classes on Intro to Computers, Databases, and Programming & Logic. My Programming & Logic class caused me grief due to the requirement of focus and study, barely passing with a C. From 2015-19, I tried other courses for network engineering and IT administration with the same result, barely passing while trying to work full time in a Support Engineer role. In 2020, I tried one last time taking 'Web, Database, & Programming' and 'Network Administration foundation' courses, then finally gave up on school with 77 cumulative credits earned. 
 <br><br/>
 Fast forward to March 2025, I've been in the IT industry for roughly 10 years with 5 years of IT project experience. My role required further learning to implement multiple new products for existing and new B2B customers. Though I succeeded, I struggled internally enough with focus and initiative learning to finally seek professional help. I received a diagnosis of ADHD (primarily inattentive) to my surprise and received medicine for treatment, which unlocked a whole new world of focus and initiative. This has launched me to be more productive at work in project implementations and after-hours learning programming.  
