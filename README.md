@@ -1,4 +1,4 @@
-# 🐺 Levar Norwood
+# Levar Norwood
 
 **`Professional Services Consultant`**
 
