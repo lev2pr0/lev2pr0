@@ -4,8 +4,8 @@
 
 **`Empowering all to achieve success through technology.`**
 <br></br>
-- 🔭 I’m currently working on [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) Professional Ceritifcate [here](https://github.com/lev2pr0/codecademy-computerscience-projects)
-- 🌱 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
+- 🔭 I’m currently working on Microsoft [Public Distribution List](https://github.com/lev2pr0/publicDLreport) and [Mailbox Forward](https://github.com/lev2pr0/mailboxforwardreport) reporting for security via PowerShell
+- 🌱 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory with Python and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
 - 📫 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
 
 
@@ -34,6 +34,9 @@
 <br />
 
 ---
+
+[![Levar's Github stats Light](https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Levar's Github stats Dark](https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <b></b>
 <details>
