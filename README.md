@@ -59,7 +59,7 @@ You can watch me grow here as I continue to show my progress through projects pu
 **Easter egg unlocked**: Penguin approval! 🐧
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJlc3FocG16eTg3bmVneWp0d3ZyNHl1ejVzejhkbG90MnY4N3k3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" width="200" height="200" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJlc3FocG16eTg3bmVneWp0d3ZyNHl1ejVzejhkbG90MnY4N3k3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" width="300" height="300" />
 
 <br><br/>
 </details>
