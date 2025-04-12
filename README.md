@@ -2,6 +2,8 @@
 
 **`Professional Services Consultant`**
 
+**`Empowering all to achieve success through technology.`**
+
 - 🔭 I’m currently working on [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) Professional Ceritifcate [here](https://github.com/lev2pr0/codecademy-computerscience-projects)
 - 🌱 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
 - 📫 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
