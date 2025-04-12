@@ -37,9 +37,9 @@
 
 <b></b>
 <details>
- <summary><h3>📖 Levar's Software Development Journey</h3></summary>
+ <summary><h3>📖 Levar's Career Journey</h3></summary>
  
- I began my software development journey as a community college Computer Engineering student in 2014 on a transfer track for NC State University. During college, I took classes on Intro to Computers, Databases, and Programming & Logic. My favorite classes were Programming & Logic and Databases Concepts, learning how software & data are built and stored through course projects. This brought me much excitement; though barely passing, I dreamed of a career as a software engineer to help others win with technology. 
+ I began my journey as a community college Computer Engineering student in 2014 on a transfer track for NC State University. During college, I took classes on Intro to Computers, Databases, and Programming & Logic. My favorite classes were Programming & Logic and Databases Concepts, learning how software & data are built and stored through course projects. This brought me much excitement; though barely passing, I dreamed of a career as a software engineer to help others win with technology. 
 <br><br/> 
  Early in 2015, I had unforeseen life circumstances adding urgency for a fast-track career to support my younger self at 19 years old. I incontinently abandoned hope for a software engineer career and pivoted for a career in IT. From 2015-17, I received a full-time Technical Support Engineer role while taking IT fast-track courses in networking and IT Support administration part-time. This was financially difficult supporting myself while paying community college tuition fees. At a crossroads, I dropped out, ending my college education with a total of 77 cumulative credits, and focused on growing my IT career in an alternative way. 
 <br><br/> 
