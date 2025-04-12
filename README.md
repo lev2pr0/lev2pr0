@@ -53,7 +53,7 @@
 
 Thank you for reading my story! 🙏🏽 
 <br><br/>
-You can watch me grow here as I continue to show my progress through projects publically shared. I am always open to collaboration & mentorship so feel free to reach out at [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com).
+You can watch me grow here as I continue to show my progress through projects publically shared. I am always open to collaboration & mentorship so feel free to reach out via email at [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com).
 <br><br/>
 </details>
 <br></br>
