@@ -3,7 +3,11 @@
 **`Professional Services Consultant`**
 
 **`Empowering all to achieve success through technology.`**
-<br></br>
+
+As a highly motivated and detail-oriented professional, I actively implement security solutions to safeguard organizations and individuals. My core values revolve around an adaptable mindset and integrity, which enable me to effectively serve all stakeholders and achieve success through project delivery.
+
+#
+
 - 🔭 I’m currently working on Microsoft [Public Distribution List](https://github.com/lev2pr0/publicDLreport) and [Mailbox Forward](https://github.com/lev2pr0/mailboxforwardreport) reporting for Cybersecurity
 - 🌱 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory with Python and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
 - 📫 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
