@@ -55,7 +55,7 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 <br><br/>
  Now, I am working towards the dream I had for years learning software development to empower all to achieve success through technology. I have put myself on a self-learning roadmap to grow programming skills necessary to achieve a role in backend development within 5 years. In the short term, I will continue my current career, growing aptitude in IT including soft skills in strong communication, leadership, problem-solving, organization, and time management for future challenging projects. 
 <br><br/>
-
+#
 Thank you for reading my story! 🙏🏽 
 <br><br/>
 You can watch me grow here as I continue to show my progress through projects publically shared. I am always open to collaboration & mentorship so feel free to reach out via email at [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com) or connect professionally via [LinkedIn](https://www.linkedin.com/in/levar-norwood/).
