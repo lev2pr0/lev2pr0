@@ -4,7 +4,7 @@
 
 **`Empowering all to achieve success through technology.`**
 <br></br>
-- 🔭 I’m currently working on Microsoft [Public Distribution List](https://github.com/lev2pr0/publicDLreport) and [Mailbox Forward](https://github.com/lev2pr0/mailboxforwardreport) reporting for security via PowerShell
+- 🔭 I’m currently working on Microsoft [Public Distribution List](https://github.com/lev2pr0/publicDLreport) and [Mailbox Forward](https://github.com/lev2pr0/mailboxforwardreport) reporting for Cybersecurity
 - 🌱 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory with Python and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
 - 📫 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
 
