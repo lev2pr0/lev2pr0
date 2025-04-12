@@ -40,6 +40,9 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 
 ---
 
+### ⚡🔌 Current Stats
+
+
 [![Levar's Github stats Light](https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only)
 [![Levar's Github stats Dark](https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only)
 <br />
@@ -71,7 +74,7 @@ You can watch me grow here as I continue to show my progress through projects pu
 
 <br><br/>
 </details>
-<br></br>
+<br></br></b>
 
 **Support?** Buy me coffee ☕️ via [Paypal](https://www.paypal.com/donate/?business=E7G9HLW2WPV22&no_recurring=1&item_name=Empowering+all+to+achieve+success+through+technology.%0A&currency_code=USD)
 
