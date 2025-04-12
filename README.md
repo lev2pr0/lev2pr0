@@ -56,7 +56,7 @@ Thank you for reading my story! 🙏🏽
 <br><br/>
 You can watch me grow here as I continue to show my progress through projects publically shared. I am always open to collaboration & mentorship so feel free to reach out via email at [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com) or connect professionally via [LinkedIn](https://www.linkedin.com/in/levar-norwood/).
 
-**Easter egg unlocked**: Penguin approval! 🐧
+**Easter egg unlocked**: Cool penguin approves! 🐧
 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJlc3FocG16eTg3bmVneWp0d3ZyNHl1ejVzejhkbG90MnY4N3k3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" width="300" height="300" />
