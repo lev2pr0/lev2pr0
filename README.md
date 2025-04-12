@@ -46,6 +46,8 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 
 ---
 
+### ⚡️🔌 Stats 
+
 [![Levar's Github stats Light](https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only)
 [![Levar's Github stats Dark](https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only)
 
