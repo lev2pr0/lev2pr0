@@ -37,7 +37,7 @@
 
 <b></b>
 <details>
- <summary><h3>📖 Levar's Career Journey</h3></summary>
+ <summary><h3>📖 Levar's Coding Journey</h3></summary>
  
  I began my journey as a community college Computer Engineering student in 2014 on a transfer track for NC State University. During college, I took classes on Intro to Computers, Databases, and Programming & Logic. My favorite classes were Programming & Logic and Databases Concepts, learning how software & data are built and stored through course projects. This brought me much excitement; though barely passing, I dreamed of a career as a software engineer to help others win with technology. 
 <br><br/> 
