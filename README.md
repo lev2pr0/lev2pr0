@@ -23,6 +23,11 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 <img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <br />
 
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only)
+
 <!---
 #
 
@@ -39,15 +44,10 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 <br />
 --->
 
-#
-
-### ⚡🔌 Current Stats
+---
 
 [![Levar's Github stats Light](https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only)
 [![Levar's Github stats Dark](https://github-readme-stats.vercel.app/api?username=lev2pr0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only)
 
 #
 
