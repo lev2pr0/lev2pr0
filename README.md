@@ -29,9 +29,11 @@
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <br />
 -->
-
+<!---
 ---
 
+<!---
+Easter Egg 
 <b></b>
 <details>
  <summary><h3>📖 Levar's Software Development Journey</h3></summary>
@@ -46,5 +48,5 @@ Thank you for reading my story! 🙏🏽
 You can watch me grow here as I continue to update on my progress and upload projects. Feel free to reach out as I am open to collaboration and mentorship.
 <br><br/>
 </details>
-
+-->
 
