@@ -7,7 +7,7 @@
 As a highly motivated and detail-oriented professional, I actively implement security solutions to safeguard organizations and individuals. My core values revolve around an adaptable mindset and integrity, which enable me to effectively serve all stakeholders and achieve success through project delivery.
 
 
-- 🔭 I’m currently working on drafting my next personal project
+- 👨🏽‍💻 I’m currently working on drafting my next personal project
 - 🌱 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory with Python and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
 - 📫 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
 
@@ -15,7 +15,7 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 
 ---
 
-### 👨🏽‍💻 Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
