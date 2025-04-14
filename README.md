@@ -8,9 +8,9 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 
 
 - 👨🏽‍💻 I’m currently working on drafting my next personal project
-- 🌱 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory with Python and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
+- 📚 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory with Python and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
 - ✅ Last project completed: Microsoft [Public Distribution List](https://github.com/lev2pr0/publicDLreport) and [Mailbox Forward](https://github.com/lev2pr0/mailboxforwardreport) reporting for Cybersecurity Professionals
-- 📫 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
+- 📬 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
 
 
 
