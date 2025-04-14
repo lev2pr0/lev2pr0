@@ -7,7 +7,7 @@
 As a highly motivated and detail-oriented professional, I actively implement security solutions to safeguard organizations and individuals. My core values revolve around an adaptable mindset and integrity, which enable me to effectively serve all stakeholders and achieve success through project delivery.
 
 
-- 👨🏽‍💻 I’m currently working on drafting my next personal project
+- 👨🏽‍💻 I’m currently working on [Codecademy Computer Science projects](https://github.com/lev2pr0/codecademy-computerscience-projects) to complete Professional Certification
 - 📚 I’m currently learning [Codecademy Computer Science](https://www.codecademy.com/learn/paths/computer-science) theory with Python and Backend Development via [Boot.dev](https://www.boot.dev/tracks/backend)
 - ✅ Last project completed: Microsoft [Public Distribution List](https://github.com/lev2pr0/publicDLreport) and [Mailbox Forward](https://github.com/lev2pr0/mailboxforwardreport) reporting for Cybersecurity and IT Professionals
 - 📬 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
