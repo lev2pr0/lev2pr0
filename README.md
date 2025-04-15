@@ -8,7 +8,7 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 
 
 - 👨🏽‍💻 I’m currently working on drafting new personal projects to build soon
-- 📚 I’m currently learning [Backend Development Career Path on Boot.dev](https://www.boot.dev/tracks/backend) and see progress [here](https://www.boot.dev/u/lev2pr0)
+- 📚 I’m currently learning [Backend Development Career Path on Boot.dev](https://www.boot.dev/tracks/backend); see progress [here](https://www.boot.dev/u/lev2pr0)
 - ✅ Last project completed: Microsoft [Public Distribution List](https://github.com/lev2pr0/publicDLreport) and [Mailbox Forward](https://github.com/lev2pr0/mailboxforwardreport) reporting for Cybersecurity and IT Professionals
 - 📬 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
 
