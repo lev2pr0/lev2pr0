@@ -10,7 +10,7 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 **Archived Note:** Combined function in 
 
 
-- 👨🏽‍💻 I’m currently working drafting next personal project...
+- 👨🏽‍💻 I’m currently working on drafting next personal project...
 - 📚 I’m currently learning [Backend Development Career Path on Boot.dev](https://www.boot.dev/tracks/backend); see progress [here](https://www.boot.dev/u/lev2pr0)
 - ✅ Last project completed: [Public Distribution Group and Mailbox Forward Report](https://github.com/lev2pr0/DLMailboxForwardingReport) 
 - 📬 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
