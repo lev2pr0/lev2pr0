@@ -7,9 +7,12 @@
 As a highly motivated and detail-oriented professional, I actively implement security solutions to safeguard organizations and individuals. My core values revolve around an adaptable mindset and integrity, which enable me to effectively serve all stakeholders and achieve success through project delivery.
 
 
-- 👨🏽‍💻 I’m currently working combining last project into one script via [DLMailboxForwardingReport](https://github.com/lev2pr0/DLMailboxForwardingReport)
+**Archived Note:** Combined function in 
+
+
+- 👨🏽‍💻 I’m currently working drafting next personal project...
 - 📚 I’m currently learning [Backend Development Career Path on Boot.dev](https://www.boot.dev/tracks/backend); see progress [here](https://www.boot.dev/u/lev2pr0)
-- ✅ Last project completed: Microsoft [Public Distribution List](https://github.com/lev2pr0/publicDLreport) and [Mailbox Forward](https://github.com/lev2pr0/mailboxforwardreport) reporting for Cybersecurity and IT Professionals
+- ✅ Last project completed: [Public Distribution Group and Mailbox Forward Report](https://github.com/lev2pr0/DLMailboxForwardingReport) 
 - 📬 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)
 
 
