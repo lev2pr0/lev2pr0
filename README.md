@@ -15,7 +15,7 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🧰 Skills & Technologies
 
 - **Languages:** Python, Powershell, HTML 
 <!--
