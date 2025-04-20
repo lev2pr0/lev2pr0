@@ -43,7 +43,7 @@ As a highly motivated and detail-oriented professional, I actively implement sec
 <br><br/> 
  Some years later, I've been in the IT industry for roughly 10 years and role required continuous learning to implement multiple new products for existing and new B2B customers. Though I succeeded, I could no longer ignore the difficulty of learning due to lack of focus and initiative, so I sought professional help. This lead to a diagnosis of ADHD (primarily inattentive) to my surprise and received medicine for treatment, unlocking a whole new world of possibilities. This alone made me more productive at work in project implementations and after-hours, successfully learning programming skills previously requiring strenuous willpower.
 <br><br/>
- Now, I am working towards the dream I had for years learning software development to empower all to achieve success through technology. I have put myself on a self-learning roadmap to grow programming skills necessary to achieve a role in backend development within 5 years. In the short term, I will continue my current career, growing aptitude in IT including soft skills in strong communication, leadership, problem-solving, organization, and time management for future challenging projects. 
+ Now, I am working towards the dream I had for years learning software development to empower all to achieve success through technology. I have put myself on a self-learning roadmap to grow programming skills necessary to achieve a role in backend development within 3 years. In the short term, I will continue my current career, growing aptitude in IT including soft skills in strong communication, leadership, problem-solving, organization, and time management for future challenging projects. 
 
 #
 
