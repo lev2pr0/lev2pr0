@@ -4,7 +4,7 @@
 
 **`Empowering all to achieve success through technology.`**
 
-IT Consultant with over 10 years of experience supporting enterprise environments through SaaS deployments, email security solutions, and infrastructure automation. Currently advancing my backend development skills (Go, Python, SQL, APIs) through Boot.dev to deepen my engineering expertise and expand into more development-focused roles.
+IT Consultant with over 10 years of experience supporting enterprise environments through SaaS deployments, email security solutions, and infrastructure automation. Currently advancing my backend development skills (Go, Python, SQL, APIs) through Boot.dev to deepen my engineering expertise.
 
 - 👨🏽‍💻 I’m currently working on drafting next personal project...
 - 📚 I’m currently learning [Backend Development Career Path on Boot.dev](https://www.boot.dev/tracks/backend); see progress [here](https://www.boot.dev/u/lev2pr0)
