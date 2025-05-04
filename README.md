@@ -13,16 +13,33 @@ IT Consultant with over 10 years of experience supporting enterprise environment
 
 ---
 
-### 🧰 Skills & Technologies
+### 🧰 Languages and Tools
+ 
+ <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+ <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+ <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+ <img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 
-- **Languages:** Python, Powershell, Bash
-<!--
-- **Frameworks:** 
--->
-- **Tools:** Git, Github, VS Code
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev2pr0&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only)
+<br></br>
+ 
+<!---
+ #
+ 
+ ### 🗺️ Developer Roadmap 
+ 
+ <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+ <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+ <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+ <img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+ <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+ <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+ <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+ <img align="left" alt="rabbitmq" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+ <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ 
+ <br />
+ --->
 
 <details>
  <summary><h4>Hidden in plain sight..</h4></summary> 
