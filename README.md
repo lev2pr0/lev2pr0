@@ -20,12 +20,9 @@ IT Consultant with over 10 years of experience supporting enterprise environment
  <a href="https://www.kernel.org/linux.html"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
  <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
  <a href="https://learn.microsoft.com/en-us/powershell/"><img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<br/>
 
-<br></br>
- 
 <!---
- #
- 
  ### 🗺️ Developer Roadmap 
  
  <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -37,12 +34,17 @@ IT Consultant with over 10 years of experience supporting enterprise environment
  <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
  <img align="left" alt="rabbitmq" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
  <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- 
- <br />
  --->
 
+ #
+
+ ### 📈 GitHub Stats 
+ 
+ [![Levar's Github stats Light](https://github-readme-stats.vercel.app/api?username=lev2pr0\&rank_icon=github\&show_icons=true\&hide=contribs,issues\&theme=default#gh-light-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-light-mode-only)
+ [![Levar's Github stats Dark](https://github-readme-stats.vercel.app/api?username=lev2pr0\&rank_icon=github\&show_icons=true\&hide=contribs,issues\&theme=dark#gh-dark-mode-only)](https://github.com/lev2pr0/github-readme-stats#gh-dark-mode-only)
+
 <details>
- <summary><h4>Hidden in plain sight..</h4></summary> 
+ <summary><h4>Hidden in plain sight...</h4></summary> 
  
 Thanks for visiting my Github profile! 🙏🏽
  
