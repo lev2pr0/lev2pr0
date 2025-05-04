@@ -11,7 +11,7 @@ IT Consultant with over 10 years of experience supporting enterprise environment
 - ✅ Last project completed: [Boot.dev Achievement Tracker](https://github.com/lev2pr0/bootdotdevAchievements/tree/main)
 - 📬 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)  
 
----
+#
 
 ### 🧰 Languages and Tools
  
