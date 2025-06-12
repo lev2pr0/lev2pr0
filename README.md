@@ -1,10 +1,8 @@
 # Levar Norwood
 
-**`Professional Services Consultant`**
-
 **`Empowering all to achieve success through technology.`**
 
-IT Consultant with over 10 years of experience supporting enterprise environments through SaaS deployments, email security solutions, and infrastructure. Currently advancing my backend development skills (Go, Python, SQL, APIs) through Boot.dev to deepen my engineering expertise.
+IT professional with over 10 years of experience supporting enterprise environments through SaaS deployments, email security solutions, and infrastructure. Currently advancing my backend development skills (Go, Python, SQL, APIs) through Boot.dev to deepen my engineering expertise.
 
 - 👨🏽‍💻 I’m currently working on drafting my next personal project...
 - 📚 I’m currently learning [Backend Development Career Path on Boot.dev](https://www.boot.dev/tracks/backend) 
