@@ -4,7 +4,7 @@
 
 IT professional with over 10 years of experience supporting enterprise environments through SaaS deployments, email security solutions, and infrastructure. Currently advancing my backend development skills (Go, Python, SQL, APIs) through Boot.dev to deepen my engineering expertise.
 
-- 👨🏽‍💻 I’m currently working on drafting my next personal project...
+- 👨🏽‍💻 I’m currently working on [ipwhois](https://github.com/lev2pr0/ipwhois) 
 - 📚 I’m currently learning [Backend Development Career Path on Boot.dev](https://www.boot.dev/tracks/backend) 
 - ✅ Last project completed: [Boot.dev Achievement Tracker](https://github.com/lev2pr0/bootdotdevAchievements/tree/main)
 - 📬 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)  
