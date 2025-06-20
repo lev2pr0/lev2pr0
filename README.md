@@ -34,7 +34,7 @@ IT professional with over 10 years of experience supporting enterprise environme
  <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  --->
 
-<br></br>
+</br>
 
 <details>
  <summary><h4>Hidden in plain sight...</h4></summary> 
@@ -47,7 +47,7 @@ Thanks for visiting my Github profile! 🙏🏽
 
 </details>
 
-<br></br>
+</br>
  
 <p align="center" 
  
