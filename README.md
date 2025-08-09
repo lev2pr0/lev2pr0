@@ -37,7 +37,7 @@ IT professional with over 10 years of experience supporting enterprise environme
 </br>
 
 <details>
- <summary><h4>Hidden in plain sight...</h4></summary> 
+ <summary><h4>Hidden in plain sight..</h4></summary> 
  
 Thanks for visiting my Github profile! 🙏🏽
  
