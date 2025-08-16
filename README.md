@@ -20,7 +20,7 @@ IT professional with over 10 years of experience supporting enterprise environme
  <a href="https://learn.microsoft.com/en-us/powershell/"><img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <br/>
 
-<!---
+<!--
  ### 🗺️ Developer Roadmap 
  
  <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -32,7 +32,7 @@ IT professional with over 10 years of experience supporting enterprise environme
  <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
  <img align="left" alt="rabbitmq" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
  <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- --->
+ -->
 
 </br>
 
