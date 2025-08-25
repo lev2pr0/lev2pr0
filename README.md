@@ -1,6 +1,6 @@
 # Levar Norwood
 
-**`Empowering all to achieve success through technology.`**
+**`Empowering all to achieve success through technology`**
 
 IT professional with over 10 years of experience supporting enterprise environments through SaaS deployments, email security solutions, and infrastructure. Currently advancing my backend development skills (Go, Python, SQL, APIs) through Boot.dev to deepen my engineering expertise.
 
