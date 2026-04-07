@@ -2,10 +2,9 @@
 
 **`Empowering all to achieve success through technology`**
 
-IT professional with over 10 years of experience supporting enterprise environments through SaaS deployments, email security solutions, and infrastructure. Currently advancing my backend development skills (Go, Python, SQL, APIs, & more) through Boot.dev to deepen my engineering expertise.
+IT professional with over 10 years of experience supporting enterprise environments through SaaS deployments, email security solutions, and infrastructure. Currently advancing my backend development skills (Go, Python, SQL, APIs, & more) through Boot.dev to deepen my devops engineering expertise.
 
-- 👨🏽‍💻 Currently working on: [Static Site Generator](https://github.com/lev2pr0/ssg)
-- 📚 Currently learning: [Backend Development Career Path on Boot.dev](https://www.boot.dev/tracks/backend) 
+- 📚 Currently learning: [DevOps Engineer Path on Boot.dev](https://www.boot.dev/paths/devops?tech=python-golang) 
 - ✅ Last project completed: [ipwhois](https://github.com/lev2pr0/ipwhois) 
 - 📬 How to reach me: [levar.norwood@outlook.com](mailto:levar.norwood@outlook.com)  
 
@@ -21,17 +20,14 @@ IT professional with over 10 years of experience supporting enterprise environme
 <br/>
 
 <!--
- ### 🗺️ Developer Roadmap 
- 
+ ### 🗺️ DevOps Roadmap 
+
+  <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
  <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
- <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
- <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
  <img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
  <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
- <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
  <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
- <img align="left" alt="rabbitmq" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
- <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  -->
 
 </br>
